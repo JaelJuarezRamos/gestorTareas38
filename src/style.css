@@ -1,5 +1,5 @@
 /* estilos generales */
-body{
+body {
     font-family: arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -11,7 +11,7 @@ body{
 
 }
 /* estilos para el contenedor principal*/
-#app{
+#app {
     background-color: white;
     padding: 20px;
     border-radius: 5px;
@@ -47,7 +47,7 @@ ul {
 }
 /* estilos a los elementos de la lista*/
 li {
-    background-image: #f4f4f4;
+    background-color: #f4f4f4;
     padding: 10px;
     border: 1px solid #ddd;
     margin-top: 10px;
